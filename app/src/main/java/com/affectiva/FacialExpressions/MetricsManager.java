@@ -1,5 +1,5 @@
 
-package com.affectiva.affdexme;
+package com.affectiva.FacialExpressions;
 
 import com.affectiva.android.affdex.sdk.detector.Face;
 

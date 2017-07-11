@@ -3,7 +3,7 @@
  * See the file license.txt for copying permission.
  */
 
-package com.affectiva.affdexme;
+package com.affectiva.FacialExpressions;
 
 import android.app.ActionBar;
 import android.graphics.drawable.ColorDrawable;

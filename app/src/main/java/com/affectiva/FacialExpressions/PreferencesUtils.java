@@ -3,7 +3,7 @@
  * See the file license.txt for copying permission.
  */
 
-package com.affectiva.affdexme;
+package com.affectiva.FacialExpressions;
 
 import android.content.SharedPreferences;
 import android.util.Log;

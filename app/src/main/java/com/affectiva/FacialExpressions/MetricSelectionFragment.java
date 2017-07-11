@@ -3,7 +3,7 @@
  * See the file license.txt for copying permission.
  */
 
-package com.affectiva.affdexme;
+package com.affectiva.FacialExpressions;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -29,7 +29,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import static com.affectiva.affdexme.MainActivity.NUM_METRICS_DISPLAYED;
+import static com.affectiva.FacialExpressions.MainActivity.NUM_METRICS_DISPLAYED;
 
 /**
  * A fragment to display a graphical menu which allows the user to select which metrics to display.

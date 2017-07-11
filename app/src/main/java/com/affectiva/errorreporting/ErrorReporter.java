@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.Window;
 import android.widget.Button;
 
-import com.affectiva.affdexme.R;
+import com.affectiva.FacialExpressions.R;
 
 import java.text.DateFormat;
 import java.util.Date;
